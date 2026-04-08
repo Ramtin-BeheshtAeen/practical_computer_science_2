@@ -76,4 +76,9 @@ public class RingBuffer
     {
         return entries;
     }
+
+    public static void main(String[] args) {
+    RingBuffer r = new RingBuffer(13);
+    }
+
 }
