@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="RingBuffer">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/out/production/RingBuffer" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/out/production/RingBuffer" />
+    </excluded>
+  </library>
+</component>
