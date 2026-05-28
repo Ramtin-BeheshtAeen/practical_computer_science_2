@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Sort">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/out/production/Sort" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/out/production/Sort" />
+    </excluded>
+  </library>
+</component>
