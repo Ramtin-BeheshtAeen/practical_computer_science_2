@@ -32,3 +32,19 @@ import de.uni_bremen.pi2.*;
 
     tree2.printMyTree();
     tree2.printMyTreeWithLines();
+
+
+
+SearchTree<Character> tree = new RBTree<Character>();
+tree.insert('A');
+tree;
+tree.insert('B');
+tree;
+tree.insert('D');SAXZ
+tree;
+tree.insert('E');
+tree;
+tree.insert('F');
+tree;
+tree.insert('C');
+tree;
