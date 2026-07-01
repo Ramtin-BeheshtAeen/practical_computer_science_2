@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ImageViewer">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/out/production/ImageViewer" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/out/production/ImageViewer" />
+    </excluded>
+  </library>
+</component>
