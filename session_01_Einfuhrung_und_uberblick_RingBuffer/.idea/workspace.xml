@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eaac6c69-2599-4360-8391-e877a3584cc6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../session_01_Einführung_und_Überblick_RingBuffer/01_RingBuffer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_Einführung_und_Überblick_RingBuffer/01_RingBuffer/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_Einführung_und_Überblick_RingBuffer/01_RingBuffer/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_Einführung_und_Überblick_RingBuffer/01_RingBuffer/.idea/libraries/RingBuffer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_Einführung_und_Überblick_RingBuffer/01_RingBuffer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_Einführung_und_Überblick_RingBuffer/01_RingBuffer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_Einführung_und_Überblick_RingBuffer/01_RingBuffer/RingBuffer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_Einführung_und_Überblick_RingBuffer/01_RingBuffer/src/de/uni_bremen/pi2/RingBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_01_Einführung_und_Überblick_RingBuffer/01_RingBuffer/test/de/uni_bremen/pi2/RingBufferTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3C5Ldbne4EKXkK68K5nY3nS0QzF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.RingBuffer.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.RingBufferTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RingBufferTest.testCapacity0.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;PIT Runner.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="PIT Runner.Unnamed">
+    <configuration name="RingBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="RingBuffer" />
+      <module name="session_01_Einfuhrung_und_uberblick_RingBuffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="de.uni_bremen.pi2.RingBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.RingBuffer" />
+      <module name="session_01_Einfuhrung_und_uberblick_RingBuffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RingBufferTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="session_01_Einfuhrung_und_uberblick_RingBuffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.RingBufferTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RingBufferTest.testCapacity0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="session_01_Einfuhrung_und_uberblick_RingBuffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_bremen.pi2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.uni_bremen.pi2" />
+      <option name="MAIN_CLASS_NAME" value="de.uni_bremen.pi2.RingBufferTest" />
+      <option name="METHOD_NAME" value="testCapacity0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="session_01_Einfuhrung_und_uberblick_RingBuffer" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="session_01_Einfuhrung_und_uberblick_RingBuffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="session_01_Einfuhrung_und_uberblick_RingBuffer" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PIT" factoryName="PIT Runner" editBeforeRun="true" REPORT_DIR="$PROJECT_DIR$/report" SOURCE_DIRS="$PROJECT_DIR$/01_RingBuffer/src" TARGET_CLASSES="de.*" TARGET_TESTS="" otherParams="--outputFormats XML,HTML --verbose" nameIsGenerated="true">
+      <module name="session_01_Einfuhrung_und_uberblick_RingBuffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PIT" factoryName="PIT Runner" editBeforeRun="true" REPORT_DIR="$PROJECT_DIR$/report" SOURCE_DIRS="$PROJECT_DIR$/01_RingBuffer/src" TARGET_CLASSES="de.*" TARGET_TESTS="" otherParams="--outputFormats XML,HTML">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.de.uni_bremen.pi2.RingBuffer" />
+      <item itemvalue="Application.RingBuffer" />
+      <item itemvalue="JUnit.RingBufferTest" />
+      <item itemvalue="JUnit.RingBufferTest.testCapacity0" />
+      <item itemvalue="PIT Runner.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RingBufferTest" />
+        <item itemvalue="Application.de.uni_bremen.pi2.RingBuffer" />
+        <item itemvalue="Application.RingBuffer" />
+        <item itemvalue="JUnit.RingBufferTest.testCapacity0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaac6c69-2599-4360-8391-e877a3584cc6" name="Changes" comment="" />
+      <created>1775670574742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775670574742</updated>
+      <workItem from="1775670579296" duration="2242000" />
+      <workItem from="1775673176543" duration="304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/01_RingBuffer/src/de/uni_bremen/pi2/RingBuffer.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/session_01_Einführung_und_Überblick_RingBuffer$RingBufferTest.ic" NAME="RingBufferTest Coverage Results" MODIFIED="1775671826152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>de.uni_bremen.pi2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
